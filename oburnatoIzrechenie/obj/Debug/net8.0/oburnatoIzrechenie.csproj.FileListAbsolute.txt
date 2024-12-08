@@ -1,0 +1,14 @@
+C:\Users\User\Documents\programirane\Domashna-stack\oburnatoIzrechenie\bin\Debug\net8.0\oburnatoIzrechenie.exe
+C:\Users\User\Documents\programirane\Domashna-stack\oburnatoIzrechenie\bin\Debug\net8.0\oburnatoIzrechenie.deps.json
+C:\Users\User\Documents\programirane\Domashna-stack\oburnatoIzrechenie\bin\Debug\net8.0\oburnatoIzrechenie.runtimeconfig.json
+C:\Users\User\Documents\programirane\Domashna-stack\oburnatoIzrechenie\bin\Debug\net8.0\oburnatoIzrechenie.dll
+C:\Users\User\Documents\programirane\Domashna-stack\oburnatoIzrechenie\bin\Debug\net8.0\oburnatoIzrechenie.pdb
+C:\Users\User\Documents\programirane\Domashna-stack\oburnatoIzrechenie\obj\Debug\net8.0\oburnatoIzrechenie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\programirane\Domashna-stack\oburnatoIzrechenie\obj\Debug\net8.0\oburnatoIzrechenie.AssemblyInfoInputs.cache
+C:\Users\User\Documents\programirane\Domashna-stack\oburnatoIzrechenie\obj\Debug\net8.0\oburnatoIzrechenie.AssemblyInfo.cs
+C:\Users\User\Documents\programirane\Domashna-stack\oburnatoIzrechenie\obj\Debug\net8.0\oburnatoIzrechenie.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\programirane\Domashna-stack\oburnatoIzrechenie\obj\Debug\net8.0\oburnatoIzrechenie.dll
+C:\Users\User\Documents\programirane\Domashna-stack\oburnatoIzrechenie\obj\Debug\net8.0\refint\oburnatoIzrechenie.dll
+C:\Users\User\Documents\programirane\Domashna-stack\oburnatoIzrechenie\obj\Debug\net8.0\oburnatoIzrechenie.pdb
+C:\Users\User\Documents\programirane\Domashna-stack\oburnatoIzrechenie\obj\Debug\net8.0\oburnatoIzrechenie.genruntimeconfig.cache
+C:\Users\User\Documents\programirane\Domashna-stack\oburnatoIzrechenie\obj\Debug\net8.0\ref\oburnatoIzrechenie.dll
